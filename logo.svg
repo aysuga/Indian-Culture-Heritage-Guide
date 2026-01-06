@@ -1,0 +1,9 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 140 36'>
+  <style>text{font-family:Playfair Display, serif}</style>
+  <rect rx='6' width='140' height='36' fill='rgba(255,255,255,0)' />
+  <g transform='translate(6,4)'>
+    <circle cx='16' cy='14' r='12' fill='#f97316'/>
+    <circle cx='48' cy='14' r='12' fill='#16a34a'/>
+    <text x='80' y='20' font-size='18' fill='#ffffff' font-weight='700'>Indian Guide</text>
+  </g>
+</svg>

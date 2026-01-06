@@ -1,0 +1,12 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'>
+  <defs>
+    <linearGradient id='g1' x1='0' x2='1'>
+      <stop offset='0' stop-color='#f97316'/>
+      <stop offset='0.5' stop-color='#ffffff'/>
+      <stop offset='1' stop-color='#16a34a'/>
+    </linearGradient>
+  </defs>
+  <rect width='64' height='64' rx='12' fill='url(#g1)' />
+  <circle cx='32' cy='22' r='8' fill='#fff' opacity='0.85'/>
+  <text x='50%' y='80%' font-family='Inter, sans-serif' font-size='14' fill='#fff' text-anchor='middle' font-weight='700'>IND</text>
+</svg>
